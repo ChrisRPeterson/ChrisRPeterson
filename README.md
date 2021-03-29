@@ -2,7 +2,7 @@
 
 ### Hi, I'm Christian Peterson 👾
 
-I'm a self-taught web dev enthusiast based in Austin, TX
+I'm a web dev enthusiast based in Austin, TX
 
 #### Experience with: 
 JS, React, Node.js, C++, Python, and more! 👍
