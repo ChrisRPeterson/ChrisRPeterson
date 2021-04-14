@@ -14,6 +14,10 @@ HTML5, Javascript, Python, C++, SQL
 #### Some technologies I have worked with
 Git, Github, jQuery, Linux, Node.js, React, Express, MongoDB
 
+I love the MERN stack! 😀
+
+Interested in becoming a LAMP stack pro too!
+
 <!-- [![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
