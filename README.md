@@ -14,7 +14,7 @@ HTML5, Javascript, Python, C++, SQL
 #### Some technologies I have worked with
 Git, Github, jQuery, Linux, Node.js, React, Express, MongoDB
 
-[![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
