@@ -4,8 +4,16 @@
 
 I'm a web dev enthusiast based in Austin, TX
 
+<!--
 #### Experience with: 
-JS, React, Node.js, C++, Python, and more! 👍
+JS, React, Node.js, C++, Python, and more! 👍 -->
+
+#### Languages I have used
+HTML5, Javascript, Python, C++, SQL
+
+#### Some technologies I have worked with
+Git, Github, jQuery, Linux, Node.js, React
+
 
 
 <!--
