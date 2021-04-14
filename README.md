@@ -12,7 +12,7 @@ JS, React, Node.js, C++, Python, and more! 👍 -->
 HTML5, Javascript, Python, C++, SQL
 
 #### Some technologies I have worked with
-Git, Github, jQuery, Linux, Node.js, React
+Git, Github, jQuery, Linux, Node.js, React, Express, MongoDB
 
 
 
