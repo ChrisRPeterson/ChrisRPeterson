@@ -16,7 +16,7 @@ Git, Github, jQuery, GraphQL, Sass, AWS, and many more!
 
 #### What am I up to?
 I work as a (primarily) front end developer for athenahealth here in Austin, TX!
-My work primarily focuses on modernizing web apps. I'm always bringing old workflows onto new tech stacks and creating more modular microservices from a dated monolith. 
+I focus on modernizing web apps. I'm always bringing old workflows onto new tech stacks and creating more modular microservices from a dated monolith. 
 
 <!-- [![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats) -->
 
