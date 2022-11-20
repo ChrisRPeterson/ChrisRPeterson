@@ -2,20 +2,21 @@
 
 ### Hi, I'm Christian Peterson 👾
 
-I'm a web dev enthusiast based in Austin, TX
+I'm a web developer based in Austin, TX
 
 <!--
 #### Experience with: 
 JS, React, Node.js, C++, Python, and more! 👍 -->
 
-#### Languages I have used
-HTML5, Javascript, Python, C++, SQL
+#### Experience with:
+JS, TypeScript, React, Node.js, PHP, Perl, and more!
 
 #### Some technologies I have worked with
-Git, Github, jQuery, Sass, Linux, Node.js, React, Express, MongoDB
+Git, Github, jQuery, GraphQL, Sass, AWS, and many more!
 
 #### What am I up to?
-Building full-stack MERN apps 👍
+I work as a (primarily) front end developer for athenahealth here in Austin, TX!
+My work primarily focuses on modernizing web apps. I'm always bringing old workflows onto new tech stacks and creating more modular microservices from a dated monolith. 
 
 <!-- [![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats) -->
 
