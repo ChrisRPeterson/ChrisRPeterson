@@ -9,14 +9,13 @@ I'm a web developer based in Austin, TX
 JS, React, Node.js, C++, Python, and more! 👍 -->
 
 #### Experience with:
-JS, TypeScript, React, Node.js, PHP, Perl, and more!
+JavaScript, TypeScript, React, Node.js, PHP, Perl, Java, SQL, and more!
 
 #### Some technologies I have worked with
-Git, Github, jQuery, GraphQL, Sass, AWS, and many more!
+Git, jQuery, GraphQL, Sass, AWS, and many more!
 
 #### What am I up to?
-I work as a (primarily) front end developer for athenahealth here in Austin, TX!
-I focus on modernizing web apps. I'm always bringing old workflows onto new tech stacks and creating more modular microservices from a dated monolith. 
+I work as a (primarily) front end developer in Austin, TX!
 
 <!-- [![ChrisRPeterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRPeterson)](https://github.com/anuraghazra/github-readme-stats) -->
 
